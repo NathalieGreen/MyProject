@@ -1,9 +1,9 @@
 1
-Ang
+nat
 2
-hey
+Nat
 3
-Jams
+nat
 4
 Nathalie
 6
@@ -16,5 +16,5 @@ Liam
 Ed
 29
 Nicole
-32
-Jacob
+30
+Neel
